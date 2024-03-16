@@ -17,7 +17,7 @@ To run the Sorting and Searching Visualizer locally, follow these steps:
 1. Clone the repository:<br />
 ```git clone https://github.com/TheSuraj01/Sorting-and-Searching-Visualizer.git```
 2. Navigate to the project directory: <br />
-```cd sorting-searching-visualizer```
+```cd Sorting-and-Searching-Visualizer```
 3. Install the required dependencies: <br />
 ```npm install```
 4. Start the development server:<br />
@@ -83,4 +83,4 @@ Please ensure that your code follows the project's coding standards and includes
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - LinkedIn: [www.linkedin.com/in/surajyadav01](www.linkedin.com/in/surajyadav01)
-- GitHub: [https://github.com/TheSuraj01](https://github.com/TheSuraj01)#
+- GitHub: [https://github.com/TheSuraj01](https://github.com/TheSuraj01)
