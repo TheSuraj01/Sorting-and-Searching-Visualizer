@@ -40,7 +40,7 @@ function About() {
                     </a>
                   </li>
                   <li>
-                    <a target="_blank" href="https://www.instagram.com/itz._.me._.suraj/" rel="noreferrer">
+                    <a target="_blank" href="https://www.instagram.com/surajkumaryadav.in/" rel="noreferrer">
                       <img className="icn" src={InstagramIcon} alt="" />
                     </a>
                   </li>
